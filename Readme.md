@@ -48,23 +48,29 @@ Una vez ejecutado el programa, el usuario podrá ver un menú interactivo para s
 ## Ejemplo de ejecución
 
 ```
-Ingrese la moneda de origen:
-1. USD
-2. ARS
-3. EUR
-...
-Seleccione una opción: 1
+*******************************************************************
+           Sea bienvenido/a al Conversor de Moneda:
+                
+*******************************************************************
+                
+0) Dolar => Peso argentino
+1) Peso argentino => Dolar
+2) Dolar => Real brasileño
+3) Real brasileño => Dolar
+4) Dolar => Peso colombiano
+5) Peso colombiano => Dolar
+6) Salir
 
-Ingrese la moneda de destino:
-1. USD
-2. ARS
-3. EUR
-...
-Seleccione una opción: 2
+*******************************************************************
+Elija una opción:
 
-Ingrese el valor a convertir: 100
+0
 
-El valor = 100.0 [USD] corresponde al valor final de => 9600.0 [ARS]
+Ingrese el valor que desea cambiar:
+
+500
+
+El valor = 500,0 [USD] corresponde al valor final de => 520125,00 [ARS]
 ```
 
 ## Contribuciones
