@@ -31,6 +31,7 @@ out/
 *.env
 *.properties
 *.log
+ApiKey.txt
 
 # Ignorar archivos de configuración del sistema operativo
 .DS_Store
