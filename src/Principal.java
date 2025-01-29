@@ -51,7 +51,7 @@ public class Principal {
                 System.out.println("Error: Intento Ingresar un dígito en un campo que es solo númerico. " +
                         "Elija del 0 al 6. Vuelva a intentarlo!");
                 s.nextLine();
-            } catch (NullPointerException e){
+            } catch (NullPointerException e) {
                 System.out.println("Algo fallo, contacte con el Administrador!");
                 salida = true;
             }
